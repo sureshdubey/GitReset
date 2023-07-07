@@ -1,3 +1,1 @@
-abc
-aaa
-added new line from github.dev editor
+Demo: Delete branch manually
