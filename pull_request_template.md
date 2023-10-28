@@ -11,4 +11,4 @@ Make sure to add a changelog for the changes in this PR
 <issue reference>
 
 ## Other Details
-<Other details>
+<Other detail>
